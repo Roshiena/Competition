@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3E0GLIvxFWHAQAy9DGgaSBgQr4l6sQa48ylE94160vAB6RAPJgpo2dCDk+octYajb/S3XuWZDMjQ1vsB3VKEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roshi\\OneDrive\\Desktop\\TurnUp\\TurnUpTest\\TurnUpTest\\september26.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roshi\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\selenium.support\\4.5.1\\selenium.support.4.5.1.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\selenium.webdriver\\4.5.1\\selenium.webdriver.4.5.1.nupkg.sha512",
+    "C:\\Users\\roshi\\.nuget\\packages\\selenium.webdriver.chromedriver\\106.0.5249.6100\\selenium.webdriver.chromedriver.106.0.5249.6100.nupkg.sha512"
+  ],
+  "logs": []
+}
